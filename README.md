@@ -1,4 +1,4 @@
-```
+
 # 🧠 News Entity Explorer
 
 A Named Entity Recognition (NER) project for extracting and visualizing entities (like people, organizations, locations, etc.) from news articles using SpaCy.  
