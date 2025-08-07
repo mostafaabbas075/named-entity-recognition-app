@@ -18,11 +18,9 @@ The app supports both rule-based and model-based NER, with an interactive Stream
 ### 1. Install requirements
 Make sure you have Python 3.8+ and install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
-Or manually install:
+
+install:
 ```bash
 pip install streamlit spacy pandas
 python -m spacy download en_core_web_sm
